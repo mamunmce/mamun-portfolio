@@ -25,6 +25,7 @@ h1{
     display:flex;
     background-image: url(img/banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 100px;
 }
 
 div img{
@@ -45,4 +46,17 @@ p{
 
 h3{
     font-size: 20px;
+}
+
+
+#topSection{
+    display:flex;
+    background-image: url(img/left.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-bottom: 100px;
+}
+
+.marginimg{
+    padding-left: 100px;
 }
