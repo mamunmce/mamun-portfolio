@@ -1,0 +1,48 @@
+body{
+    margin:0;
+
+}
+
+h1{
+    font-family: 'Roboto Slab', serif;
+}
+
+.fistDiv{
+    width:50%;
+    float:right;
+    margin-left:110px;
+}
+
+.fistDiv a{
+    text-decoration:none;
+    background-image: linear-gradient(rgba(235, 99, 65, 0.658), rgb(236, 147, 46));
+    padding:10px 40px;
+    color:white;
+    border-radius:5px;
+}
+
+.parendSection{
+    display:flex;
+    background-image: url(img/banner.png);
+    background-repeat: no-repeat;
+}
+
+div img{
+    width:85%;
+    
+}
+h1{
+    font-size:50px;
+}
+span{
+    color:rgb(255, 153, 0)
+}
+
+p{
+    width:80%;
+    font-size: 18px;
+}
+
+h3{
+    font-size: 20px;
+}
